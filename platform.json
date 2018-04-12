@@ -31,7 +31,7 @@
     "framework-mbed": {
       "type": "framework",
       "optional": true,
-      "version": "https://github.com/SymmetryLabs/mbed-os.git#platformio"
+      "version": "https://github.com/SymmetryLabs/mbed-os.git#b3df1fbffc0bc65ea4f586aafa71f3876769ed4f"
     },
     "tool-pyocd": {
       "type": "uploader",
